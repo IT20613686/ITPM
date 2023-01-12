@@ -4,3 +4,4 @@
 # Type npm i and press enter
 # To run the frontend & backend use two seperate terminal
 # Use npm start to run both frontend & backend
+# Use verveadmin@gmail.com to login as admin
