@@ -13,8 +13,6 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-  
-   
     padding: 24px;
     color: #fff;
   }
@@ -25,13 +23,11 @@
   }
   
   .footer-subscription-heading {
-    
     font-size: 24px;
     margin-right: 30px;
   }
   
   .footer-subscription-text {
-    
     font-size: 20px;
     margin-right: 25px;
   }
@@ -43,7 +39,6 @@
     outline: none;
     border: none;
     font-size: 18px;
-    
     border: 1px solid #fff;
   }
   
