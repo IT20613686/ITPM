@@ -47,7 +47,7 @@ const submitHandler = async (e) => {
     setMessage("password do not match");
   } else {
 
-    dispatch(register(name, password, email, phone,pic));
+    dispatch(register(name, email, password, phone, pic));
     alert("Successfully registered!")
     window.location.reload();
   }
